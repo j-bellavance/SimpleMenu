@@ -5,7 +5,7 @@ Same as my MenuV2, but without the usage of the String class.
 
 Describe a menu like this:
 
-char[] menuItems = 
+char menuItems[] = 
 
 "-READ:000"
 
