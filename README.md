@@ -1,7 +1,7 @@
 # SimpleMenu
 A very simple menuing system
 
-Same as my MenuV2, but without the usage of the Strin class.
+Same as my MenuV2, but without the usage of the String class.
 
 Describe a menu like this:
 
