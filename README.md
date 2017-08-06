@@ -6,6 +6,7 @@ Same as my MenuV2, but without the usage of the String class.
 Describe a menu like this:
 
 char[] menuItems = 
+
 "-READ:000"
 
 "--SENSORS:000"
