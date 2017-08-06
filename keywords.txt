@@ -1,0 +1,5 @@
+SimpleMenu	KEYWORD1
+setDisplayLines	KEYWORD2
+setKeypad	KEYWORD2
+getLine	KEYWORD2
+getAction	KEYWORD2
