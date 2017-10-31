@@ -2,18 +2,33 @@
 A very simple menuing system
 
 Same as my MenuV2, but without the usage of the String class.
+
 Describe a menu like this:
+
 char menuItems[] = 
+
 "-READ:000"
+
 "--SENSORS:000"
+
 "---SENSOR A1:101"
+
 "---SENSOR A2:102"
+
 "--SWITCHES:000"
+
 "---SWITCH PIN 4:103"
+
 "---SWITCH PIN 5:104"
+
 "-SET:000"
+
 "--SERVO ARM:105"
+
 "--SERVO BASE:106"
+
 "-MOVE SERVOS:107";
 
 That's it, you're done!
+
+October 31, 2017: repaired a bug that frose the menu if the up button was pressed when the first item of the menu (or submenu) was the current item.
