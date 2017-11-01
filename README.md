@@ -31,4 +31,4 @@ char menuItems[] =
 
 That's it, you're done!
 
-October 31, 2017: repaired a bug that frose the menu if the up button was pressed when the first item of the menu (or submenu) was the current item.
+October 31, 2017: repaired a bug that froze the menu if the up button was pressed when the first item of the menu (or submenu) was the current item.
